@@ -1,4 +1,4 @@
-# Q3. Max Consecutive Ones
+# Q1929. Concatenation of Array
 
 ## 📖 Deskripsi Soal
 
