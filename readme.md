@@ -50,10 +50,10 @@ Q1. Concatenation of Array/
 
 | Tingkat | Jumlah Soal |
 |---------|------------:|
-| 🟢 Easy | 1 |
+| 🟢 Easy | 3 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **1** |
+| **Total** | **2** |
 
 ---
 

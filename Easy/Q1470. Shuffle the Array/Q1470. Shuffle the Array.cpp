@@ -4,7 +4,7 @@
 using namespace std;
 class Solution {
 public:
-    vector<int> getConcatenation(vector<int>& nums, int n) {
+    vector<int> shuffle(vector<int>& nums, int n) {
         
         vector<int>ans = {};
 
@@ -22,7 +22,7 @@ int main(){
     int n = 3;
 
     Solution s;
-    vector<int> hasil = s.getConcatenation(nums, n);
+    vector<int> hasil = s.shuffle(nums, n);
     for (int x : hasil) {
         cout << x << " ";
     }
