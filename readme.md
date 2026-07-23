@@ -53,7 +53,7 @@ Q1. Concatenation of Array/
 | 🟢 Easy | 3 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
-| **Total** | **2** |
+| **Total** | **3** |
 
 ---
 
