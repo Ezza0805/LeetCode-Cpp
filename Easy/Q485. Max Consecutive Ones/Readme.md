@@ -4,7 +4,7 @@
 
 Diberikan sebuah array biner `nums` yang hanya berisi angka `0` dan `1`.
 
-Tugasnya adalah mencari **jumlah maksimum angka `1` yang muncul secara berurutan** di dalam array.
+Tugasnya adalah mencari **jumlah maksimum angka `1` yang muncul secara berurutan** di dalam array. 
 
 ### Contoh
 
