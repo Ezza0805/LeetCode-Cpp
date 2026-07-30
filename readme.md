@@ -1,6 +1,6 @@
 # 🚀 LeetCode-cpp
 
-Selamat datang di repository latihan LeetCode saya.
+Selamat datang di repository latihan LeetCode saya. 
 
 Repository ini berisi kumpulan solusi LeetCode yang saya kerjakan menggunakan **C++** sebagai media belajar algoritma, dan struktur data
 
